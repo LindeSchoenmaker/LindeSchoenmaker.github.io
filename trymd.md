@@ -1,7 +1,5 @@
 ---
-title: ABOUT PAGE
-layout: template
-filename: about.md
---- 
+title: Title
+---
 
 # test if this works
