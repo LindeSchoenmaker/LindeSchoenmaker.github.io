@@ -17,7 +17,7 @@ This section focuses on how to select inputs, namely;
 * selecting an endpoint and model
 * entering your molecule(s) of interest
 
-Start the exercises
+[Start the exercises}(https://lindeschoenmaker.github.io/1_inputs.html)
 
 ## Step 2: results
 
@@ -26,7 +26,7 @@ This section walks through the result interpretation and covers the following as
 * bioactivity prediction
 * accuracy and certainty of the prediction
 
-Start the exercises
+[Start the exercises}(https://lindeschoenmaker.github.io/2_results.html)
 
 ## Optional: train your own QSAR model
 
