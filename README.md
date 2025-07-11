@@ -30,4 +30,6 @@ This section walks through the result interpretation and covers the following as
 
 ## Optional: train your own QSAR model
 
-In this section you will see the basic steps needed to train a QSAR model using the open-source package QSPRpred. It requires basic understanding of python.
+In this section you will see the basic steps needed to train a QSAR model using the open-source package QSPRpred. It requires basic understanding of python and an environment in which jupyter and qsprpred are installed.
+
+[Go to the QSPRpred quick start](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorials/quick_start.ipynb)
