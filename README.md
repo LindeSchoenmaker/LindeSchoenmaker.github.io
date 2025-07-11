@@ -2,7 +2,7 @@
 
 (In a separate window) open [qsprpred.cloud.vhp4safety.nl](https://qsprpred.cloud.vhp4safety.nl/).
 
-Welcome to the Workshop on how to use (pre-existing) QSAR models for making predictions on molecular initiating event (MIE) activation! This markdown provides materials to help you explore the options that are offered and interpret the results. 
+Welcome to the Workshop on how to use (pre-existing) QSAR models for making predictions on molecular initiating event (MIE) activation! This markdown provides materials to help you explore the options that our tool offers and how to interpret the results. 
 
 ## Workshop overview
 
