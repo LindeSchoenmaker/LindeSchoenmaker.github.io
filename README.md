@@ -1,6 +1,6 @@
 # QSPRpred workshop
 
-(In a separate window) open [qsprpred.cloud.vhp4safety.nl](https://qsprpred.cloud.vhp4safety.nl/).
+(In a separate window) open <a href="https://qsprpred.cloud.vhp4safety.nl/" target="_blank">qsprpred.cloud.vhp4safety.nl</a>
 
 Welcome to the Workshop on how to use (pre-existing) QSAR models for making predictions on molecular initiating event (MIE) activation! This markdown provides materials to help you explore the options that our tool offers and how to interpret the results. 
 
@@ -17,7 +17,6 @@ This section focuses on how to select inputs, namely;
 * selecting an endpoint and model
 * entering your molecule(s) of interest
 
-[Start the exercises](https://lindeschoenmaker.github.io/inputs)
 <a href="https://lindeschoenmaker.github.io/inputs" target="_blank">Start the exercises</a>
 
 ## Step 2: results
@@ -27,10 +26,10 @@ This section walks through the result interpretation and covers the following as
 * bioactivity prediction
 * accuracy and certainty of the prediction
 
-[Start the exercises](https://lindeschoenmaker.github.io/results)
+<a href="https://lindeschoenmaker.github.io/results" target="_blank">Start the exercises</a>
 
 ## Optional: train your own QSAR model
 
 In this section you will see the basic steps needed to train a QSAR model using the open-source package QSPRpred. It requires basic understanding of python and an environment in which jupyter and qsprpred are installed.
 
-[Go to the QSPRpred quick start](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorials/quick_start.ipynb)
+<a href="https://github.com/CDDLeiden/QSPRpred/blob/main/tutorials/quick_start.ipynb" target="_blank">Go to the QSPRpred quick start</a>
