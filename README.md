@@ -18,6 +18,7 @@ This section focuses on how to select inputs, namely;
 * entering your molecule(s) of interest
 
 [Start the exercises](https://lindeschoenmaker.github.io/inputs)
+<a href="https://lindeschoenmaker.github.io/inputs" target="_blank">Start the exercises</a>
 
 ## Step 2: results
 
