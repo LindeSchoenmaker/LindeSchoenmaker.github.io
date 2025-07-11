@@ -6,7 +6,9 @@ For this exercise you wil be using the thyroid hormone alpha model. Tip: for mor
 
 Q 1.1 What property does this model predict and how is this value derived?
 
-Q 1.2 What is the performance of this model on an external validation set?
+Q 1.2 What algorithm is the QSAR model based on?
+
+Q 1.3 What is the performance of this model on an external validation set?
 
 ## Exercise 2
 
