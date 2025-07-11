@@ -12,6 +12,6 @@ Q 1.2 What is the performance of this model on an external validation set?
 
 Next you want to enter the following molecules; Liothyronine and Thyroid Hormone Receptor Antagonist, 1-850
 
-Q 2 What are the SMILES of these molecules? (tip: use PubChem for looking up the molecules)
+Q 2 What are the SMILES of these molecules? (tip: use [PubChem](https://pubchem.ncbi.nlm.nih.gov/) for looking up the molecules)
 
 Enter the molecules and click run, go to [the next exercises](https://lindeschoenmaker.github.io/results) about result interpretation
