@@ -1,7 +1,9 @@
 # Step 1: inputs
 
 ## Exercise 1
-<img src="aop_tha.png" alt="AOP thryoid hormone receptor alpha" width="700"/>
+(In a separate window) open <a href="https://qsprpred.cloud.vhp4safety.nl/" target="_blank">qsprpred.cloud.vhp4safety.nl</a>
+
+![image](Model_containers.png)
 
 For this exercise you wil be using the thyroid hormone alpha (TRalpha) model. Tip: for more detail on the models, use the QMRF document
 
