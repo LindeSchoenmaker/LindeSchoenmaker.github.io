@@ -18,7 +18,7 @@ Q 3.3.2 How is the AD calculated? (Tip: have a look at the QPRF document)
 
 ## Exercise 4
 
-Modify the structure of Liothyronine (for example by removing some side chains or adding additional ones)(<a href="https://pubchem.ncbi.nlm.nih.gov//edit3/index.html" target="_blank">PubChem Sketcher</a>)
+Modify the structure of Liothyronine (for example by removing some side chains or adding additional ones)(This can be done using <a href="https://pubchem.ncbi.nlm.nih.gov//edit3/index.html" target="_blank">PubChem Sketcher</a>)
 
 Q 4.1 What happens to the predicted bioactivity value? (Tip: also include Liothyronine in your run so that you can compare the results)
 
